@@ -1,0 +1,9 @@
+id: buttonbox
+name: Button Box
+type: shield
+
+requires:
+  - nice_nano_v2
+
+features:
+  - keys
